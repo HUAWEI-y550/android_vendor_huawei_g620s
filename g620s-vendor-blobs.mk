@@ -19,6 +19,13 @@
 PRODUCT_COPY_FILES += \
 	vendor/huawei/g620s/proprietary/recovery/root/sbin/vm_bms:recovery/root/sbin/vm_bms \
 	vendor/huawei/g620s/proprietary/system/bin/rmt_storage:system/bin/rmt_storage \
+	vendor/huawei/g620s/proprietary/system/bin/libqmi_oem_main:system/bin/libqmi_oem_main \
+	vendor/huawei/g620s/proprietary/system/bin/rmt_oeminfo:system/bin/rmt_oeminfo \
+	vendor/huawei/g620s/proprietary/system/bin/test_diag:system/bin/test_diag \
+	vendor/huawei/g620s/proprietary/system/bin/oeminfo_server:system/bin/oeminfo_server \
+	vendor/huawei/g620s/proprietary/system/bin/oem_sar_main:system/bin/oem_sar_main \
+	vendor/huawei/g620s/proprietary/system/bin/callife:system/bin/callife \
+	vendor/huawei/g620s/proprietary/system/lib/liboeminfo.so:system/lib/liboeminfo.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
