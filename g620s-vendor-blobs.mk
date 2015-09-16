@@ -18,6 +18,7 @@
 
 PRODUCT_COPY_FILES += \
 	vendor/huawei/g620s/proprietary/recovery/root/sbin/vm_bms:recovery/root/sbin/vm_bms \
+	vendor/huawei/g620s/proprietary/system/bin/rmt_storage:system/bin/rmt_storage \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
