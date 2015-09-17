@@ -46,4 +46,32 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
 	vendor/huawei/g620s/proprietary/system/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
-	vendor/huawei/g620s/proprietary/system/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw
+	vendor/huawei/g620s/proprietary/system/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
+	vendor/huawei/g620s/proprietary/system/bin/netmgrd:system/bin/netmgrd \
+	vendor/huawei/g620s/proprietary/system/bin/qmuxd:system/bin/qmuxd \
+	vendor/huawei/g620s/proprietary/system/lib/liboeminfo_oem_api.so:system/lib/liboeminfo_oem_api.so \
+	vendor/huawei/g620s/proprietary/system/lib/libqmi_nv_api.so:system/lib/libqmi_nv_api.so \
+	vendor/huawei/g620s/proprietary/system/lib/libqmi_oem_api.so:system/lib/libqmi_oem_api.so \
+	vendor/huawei/g620s/proprietary/system/lib/librmnetctl.so:system/lib/librmnetctl.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libdsnetutils.so:system/vendor/lib/libdsnetutils.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libqdp.so:system/vendor/lib/libqdp.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
+	vendor/huawei/g620s/proprietary/system/bin/rild:system/bin/rild \
+	vendor/huawei/g620s/proprietary/system/lib/libril.so:system/lib/libril.so
