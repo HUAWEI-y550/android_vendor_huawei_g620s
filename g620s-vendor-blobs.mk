@@ -18,6 +18,7 @@
 
 PRODUCT_COPY_FILES += \
 	vendor/huawei/g620s/proprietary/recovery/root/sbin/vm_bms:recovery/root/sbin/vm_bms \
+	vendor/huawei/g620s/proprietary/system/bin/vm_bms:system/bin/vm_bms \
 	vendor/huawei/g620s/proprietary/system/bin/rmt_storage:system/bin/rmt_storage \
 	vendor/huawei/g620s/proprietary/system/bin/libqmi_oem_main:system/bin/libqmi_oem_main \
 	vendor/huawei/g620s/proprietary/system/bin/rmt_oeminfo:system/bin/rmt_oeminfo \
