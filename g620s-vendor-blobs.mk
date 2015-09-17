@@ -24,6 +24,10 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/g620s/proprietary/system/etc/sound_param/g620s_l01l02/Global_cal.acdb:system/etc/sound_param/g620s_l01l02/Global_cal.acdb \
 	vendor/huawei/g620s/proprietary/system/etc/sound_param/g620s_l01l02/General_cal.acdb:system/etc/sound_param/g620s_l01l02/General_cal.acdb \
 	vendor/huawei/g620s/proprietary/system/etc/sound_param/g620s_l01l02/Bluetooth_cal.acdb:system/etc/sound_param/g620s_l01l02/Bluetooth_cal.acdb \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
 	vendor/huawei/g620s/proprietary/recovery/root/sbin/vm_bms:recovery/root/sbin/vm_bms \
 	vendor/huawei/g620s/proprietary/system/bin/vm_bms:system/bin/vm_bms \
 	vendor/huawei/g620s/proprietary/system/bin/rmt_storage:system/bin/rmt_storage \
