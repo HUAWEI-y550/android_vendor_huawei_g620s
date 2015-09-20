@@ -58,6 +58,13 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
 	vendor/huawei/g620s/proprietary/system/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
 	vendor/huawei/g620s/proprietary/system/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
+	vendor/huawei/g620s/proprietary/system/app/NfcDNci/NfcDNci.apk:system/app/NfcDNci/NfcDNci.apk \
+	vendor/huawei/g620s/proprietary/system/etc/firmware/nfc_test.bin:system/etc/firmware/nfc_test.bin \
+	vendor/huawei/g620s/proprietary/system/framework/com.android.nfc.helper.jar:system/framework/com.android.nfc.helper.jar \
+	vendor/huawei/g620s/proprietary/system/framework/com.android.qcom.nfc_extras.jar:system/framework/com.android.qcom.nfc_extras.jar \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/hw/nfc_nci.msm8916.so:system/vendor/lib/hw/nfc_nci.msm8916.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libnfcD-nci.so:system/vendor/lib/libnfcD-nci.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libnfcD_nci_jni.so:system/vendor/lib/libnfcD_nci_jni.so \
 	vendor/huawei/g620s/proprietary/system/bin/netmgrd:system/bin/netmgrd \
 	vendor/huawei/g620s/proprietary/system/bin/qmuxd:system/bin/qmuxd \
 	vendor/huawei/g620s/proprietary/system/lib/liboeminfo_oem_api.so:system/lib/liboeminfo_oem_api.so \
