@@ -92,4 +92,6 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
 	vendor/huawei/g620s/proprietary/system/bin/rild:system/bin/rild \
-	vendor/huawei/g620s/proprietary/system/lib/libril.so:system/lib/libril.so
+	vendor/huawei/g620s/proprietary/system/lib/libril.so:system/lib/libril.so \
+	vendor/huawei/g620s/proprietary/system/bin/thermal-engine:system/bin/thermal-engine \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so
