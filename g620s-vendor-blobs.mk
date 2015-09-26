@@ -96,4 +96,24 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/g620s/proprietary/system/bin/thermal-engine:system/bin/thermal-engine \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
 	vendor/huawei/g620s/proprietary/system/bin/perfd:system/bin/perfd \
-	vendor/huawei/g620s/proprietary/system/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
+	vendor/huawei/g620s/proprietary/system/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
+	vendor/huawei/g620s/proprietary/system/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
+	vendor/huawei/g620s/proprietary/system/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
+	vendor/huawei/g620s/proprietary/system/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
+	vendor/huawei/g620s/proprietary/system/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libFileMux.so:system/vendor/lib/libFileMux.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libOmxMux.so:system/vendor/lib/libOmxMux.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libwfdcommonutils.so:system/vendor/lib/libwfdcommonutils.so \
+	vendor/huawei/g620s/proprietary/system/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
+	vendor/huawei/g620s/proprietary/system/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
+	vendor/huawei/g620s/proprietary/system/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
+	vendor/huawei/g620s/proprietary/system/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
+	vendor/huawei/g620s/proprietary/system/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
+	vendor/huawei/g620s/proprietary/system/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
+	vendor/huawei/g620s/proprietary/system/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt
