@@ -68,7 +68,6 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/g620s/proprietary/system/bin/irsc_util:system/bin/irsc_util \
 	vendor/huawei/g620s/proprietary/system/bin/netmgrd:system/bin/netmgrd \
 	vendor/huawei/g620s/proprietary/system/bin/qmuxd:system/bin/qmuxd \
-	vendor/huawei/g620s/proprietary/system/lib/liboeminfo_oem_api.so:system/lib/liboeminfo_oem_api.so \
 	vendor/huawei/g620s/proprietary/system/lib/libqmi_nv_api.so:system/lib/libqmi_nv_api.so \
 	vendor/huawei/g620s/proprietary/system/lib/libqmi_oem_api.so:system/lib/libqmi_oem_api.so \
 	vendor/huawei/g620s/proprietary/system/lib/librmnetctl.so:system/lib/librmnetctl.so \
