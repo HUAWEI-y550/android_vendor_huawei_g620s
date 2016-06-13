@@ -46,6 +46,8 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libcalmodule_akm.so:system/vendor/lib/libcalmodule_akm.so \
+	vendor/huawei/g620s/proprietary/system/vendor/lib/libcalmodule_gyroscope.so:system/vendor/lib/libcalmodule_gyroscope.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
 	vendor/huawei/g620s/proprietary/system/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
